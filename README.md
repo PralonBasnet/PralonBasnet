@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Pralon 👋
 
-<!--
-**PralonBasnet/PralonBasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack web applications with Java and MySQL.
+Based in Kathmandu, Nepal.
 
-Here are some ideas to get you started:
+### Featured project
+**BookYourEvents** — a Jakarta EE event booking system with admin approval workflow,
+bcrypt auth, and a dark-themed UI. Built from scratch without Spring or Hibernate
+to deeply understand servlets, JSP, and the DAO pattern.
+👉 See pinned repo below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+**Backend:** Java 21, Jakarta EE, Servlets, JSP/JSTL, JDBC, Maven, Tomcat
+**Database:** MySQL 8, schema design
+**Frontend:** HTML, CSS, JavaScript
+**Tools:** Git, Linux, jBCrypt
+
+### What I'm working on next
+- A small REST API project (Jakarta EE + JSON)
+- Strengthening frontend skills with vanilla JS projects
+- Learning Spring Boot
+
+📧 pralonbasnet05@gmail.com
