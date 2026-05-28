@@ -18,6 +18,6 @@ to deeply understand servlets, JSP, and the DAO pattern.
 ### What I'm working on next
 - A small REST API project (Jakarta EE + JSON)
 - Strengthening frontend skills with vanilla JS projects
-- Learning Spring Boot
+- Learning Spring Boot, Node.js
 
 📧 pralonbasnet05@gmail.com
